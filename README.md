@@ -1,6 +1,6 @@
 # OllieJC
 
-Security person with [@CabinetOfficeUK](https://twitter.com/cabinetofficeuk) trying to make UK gov more secure 🤓 (opinions/tweets/irrational thoughts are my own)
+Note: all links below and comments in my socials are my own, unless otherwise mentioned! You can find out about the organisation I work for its projects and services at [@CabinetOfficeUK](https://twitter.com/cabinetofficeuk), [github.com/co-cddo](https://github.com/co-cddo) or [github.com/cabinetoffice](https://github.com/cabinetoffice).
 
  - [Twitter @4f4a43](https://twitter.com/4f4a43)
  - <a rel="me" href="https://infosec.exchange/@olliejc">Mastodon infosec.exchange/@olliejc</a>
