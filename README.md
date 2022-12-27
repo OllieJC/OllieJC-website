@@ -10,6 +10,8 @@ Note: all links below and comments in my socials are my own, unless otherwise me
  - [App - findsecuritycontacts.com](https://findsecuritycontacts.com)
  - [App - tbat.app](https://tbat.app)
  - [Website - justselfsigned.org](https://justselfsigned.org)
- - <a rel="pgpkey" href="/key.txt">PGP Public Key</a>
+ - <a href="/key.pub">PGP Public Key</a>
 
 Alternate email: <a href="mailto:website-email-ed432e5ba9e4@olliejc.uk" rel="me">website-email-ed432e5ba9e4@olliejc.uk</a>
+
+<link rel="pgpkey" href="/key.pub" />
