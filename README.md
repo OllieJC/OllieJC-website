@@ -15,3 +15,5 @@ Note: all links below and comments in my socials are my own, unless otherwise me
 Alternate email: <a href="mailto:website-email-ed432e5ba9e4@olliejc.uk" rel="me">website-email-ed432e5ba9e4@olliejc.uk</a>
 
 <link rel="pgpkey" href="/key.pub" />
+<link rel="openid.delegate" href="https://www.olliejc.uk" />
+<link rel="openid.server" href="https://openid.indieauth.com/openid" />
