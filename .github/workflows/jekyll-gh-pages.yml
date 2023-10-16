@@ -29,6 +29,11 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v2
+      - name: Fetch WKD GPG files
+        run: |
+          mkdir -p ./.well-known/openpgpkey/hu/
+          wget https://openpgpkey.proton.me/.well-known/openpgpkey/olliejc.uk/hu/s8y7oh5xrdpu9psba3i5ntk64ohouhga?l=me -O ./.well-known/openpgpkey/hu/s8y7oh5xrdpu9psba3i5ntk64ohouhga
+          wget https://openpgpkey.proton.me/.well-known/openpgpkey/olliejc.uk/policy -O ./.well-known/openpgpkey/policy
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
